@@ -34,4 +34,4 @@ void mul(double m1[], double m2[], size_t n, size_t m, size_t p, double res[]);
  */
 void print_matrix(double mat[], size_t lines, size_t cols);
  
-#endif /* _MATRIXSTDOPERATIONS_MATRIX_H_ */
+#endif
